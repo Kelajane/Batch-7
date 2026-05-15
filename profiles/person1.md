@@ -1,1 +1,75 @@
-# Person One\n\n## About Me\n\nHello! My name is Person One. I am working on the Batch 7 group profile project.\n\n- **Name:** Person One\n- **Role:** Student / Team Member\n- **Interests:** Coding, collaboration, learning Git\n\n## Profile Image\n\n![Person One](../images/person1.jpg)\n\n## More About Me\n\nWrite a short paragraph here about your background, hobbies, and what you enjoy learning.\n
+# David Anthony
+
+**Preferred Name:** Blockchain Whizzy
+
+![David Anthony](../images/David.png)
+
+---
+
+## 👨‍💻 Professional Summary
+
+I enjoy exploring, building websites and learning modern software tools and technology. As a Frontend Developer with intermediate skills, I am passionate about creating beautiful and functional web experiences. My journey has taken me through HTML, CSS, JavaScript, and emerging technologies like Web3 and AI.
+
+---
+
+## 📋 Professional Information
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | David Anthony |
+| **Preferred Name** | Blockchain Whizzy |
+| **Role** | Frontend Developer |
+| **Department** | Web Development |
+| **Level** | Intermediate |
+| **GitHub Username** | Kelajane |
+
+---
+
+## 🎓 Education
+
+- **Arise ICT Hub** — Web Development Training
+- **w3schools** — Online Learning & Certification
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+- JavaScript
+- A Little Python
+
+### Front-End Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Development Tools
+- Git (Beginner Level)
+
+---
+
+## 🔧 Tech Interests
+
+- Web Development
+- Artificial Intelligence (AI)
+- Web3 & Blockchain Technology
+
+---
+
+## 🎮 Hobbies & Interests
+
+- Gaming
+- Coding
+- Exploring (new technologies and ideas)
+
+---
+
+## 🎯 Career Goal
+
+**Become a Full Stack Developer** — combining frontend expertise with backend development to build complete, scalable web applications.
+
+---
+
+## 📚 About This Repository
+
+This profile is part of the **Batch 7 Group Profile Project**, demonstrating collaborative Git workflows including branching, pull requests, and team collaboration.
