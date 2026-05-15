@@ -66,7 +66,7 @@ I enjoy exploring, building websites and learning modern software tools and tech
 
 ## 🎯 Career Goal
 
-**Become a Full Stack Developer** — combining frontend expertise with backend development to build complete, scalable web applications.
+**My goal is to become a Full Stack Software Engineer and contribute to impactful technology projects.** — combining frontend expertise with backend development to build complete, scalable web applications.
 
 ---
 
