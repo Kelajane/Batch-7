@@ -1,6 +1,6 @@
-# David Anthony
+# Emmanuel Kelly
 
-<img src="../images/David.png" alt="David Anthony" width="160" style="border-radius: 20px;" />
+<img src="../images/" alt="David Anthony" width="160" style="border-radius: 20px;" />
 
 ---
 
